@@ -22,6 +22,7 @@ In addition, it is capable to generate or import different types of geometric sc
 To improve the performance of this technique the software was implemented using the standard for parallel programming of heterogeneous systems, OpenCL (Open Computing Language). It works in both multicore processors and GPU's (Intel, NVIDIA or AMD)
 
 Please before using it and depending of your system, install your required OpenCL Drivers:
+Test
 
 https://developer.nvidia.com/cuda-downloads
 https://software.intel.com/en-us/articles/opencl-drivers
